@@ -8,7 +8,6 @@ def count_strings(array)
 
     string.class == String
   end
-
 end
 
 
