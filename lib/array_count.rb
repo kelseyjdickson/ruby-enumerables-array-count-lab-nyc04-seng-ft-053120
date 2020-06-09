@@ -1,11 +1,11 @@
-require "pry"
+
 
 
 def count_strings(array)
   # Return the total number of strings in the provided array using the count enumerable
 
   array.count do |string|
-    binding.pry
+
     string.class == String
   end
 string
