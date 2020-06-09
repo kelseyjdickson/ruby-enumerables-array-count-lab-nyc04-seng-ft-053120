@@ -8,7 +8,7 @@ def count_strings(array)
     binding.pry
     string.class == string
   end
-
+string
 end
 
 
